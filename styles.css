@@ -1,6 +1,6 @@
-
-body {
-    font-size: 24px;
-    font-family: Roboto;
-    font-weight: 700;
+@font-face {
+        font-family: 'Roboto';
+        font-display: swap;
+        font-weight: 400 700;
+        src: url('/assets/fonts/Roboto-Regular.ttf');
 }
