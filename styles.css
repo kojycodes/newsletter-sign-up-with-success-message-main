@@ -83,7 +83,9 @@ label {
  }
 
  #submit:active {
-        color: var(--tomato);
+        background-color: var(--tomato);
+        font-weight: 700;
+        box-shadow: 0 4px 4px 8px var(--tomato);
  }
 .card-right {
         padding: 1em;
