@@ -51,10 +51,6 @@ container {
         margin-right: 16px;
 }
 
-#containeremail {
-        display: block;
-}
-
 label {
         color: var(--darkslategray);
         font-weight: 700;
@@ -66,12 +62,14 @@ label {
         padding-left: 10px;
         padding-top: 8px;
         padding-bottom: 8px;
+        width: 100%;
  }
 
  #submit {
         background-color: var(--darkslategray);
         color: var(--white);
         padding: 4px auto;
+        width: 100%;
  }
 
 .card-right {
