@@ -76,8 +76,7 @@ label {
         border-radius: 6px;
         padding-top: 16px;
         padding-bottom: 16px;;
-        padding-right: auto;
-        padding-left: auto;
+        margin:auto;
         width: 100%;
  }
 
