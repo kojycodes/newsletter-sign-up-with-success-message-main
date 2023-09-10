@@ -18,9 +18,19 @@ body {
         color: var(--darkslategray);
 }
 
-.container {
+container {
         display: flex;
 }
 .card-left {
         border-bottom: 2em;
+}
+
+.list {
+        display:flex;
+        flex-direction: row;
+}
+
+
+.bullet {
+        display: block;
 }
