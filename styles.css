@@ -85,7 +85,7 @@ label {
  #submit:active, #submit:hover {
         background-color: var(--tomato);
         font-weight: 700;
-        box-shadow: 0 4px 4px 8px var(--tomato);
+        box-shadow: 0 4px 4px 8px 30% var(--tomato);
  }
 .card-right {
         padding: 1em;
