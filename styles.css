@@ -68,7 +68,7 @@ label {
  #submit {
         background-color: var(--darkslategray);
         color: var(--white);
-        padding: 4px auto;
+        padding: 16px auto;
         width: 100%;
  }
 
