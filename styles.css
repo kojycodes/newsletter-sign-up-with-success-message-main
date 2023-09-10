@@ -43,7 +43,7 @@ container {
 
 .bullet {
         display: flex;
-        align-items: baseline;
+        align-items: center;
 }
 
 #checkmark {
