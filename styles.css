@@ -30,6 +30,9 @@ container {
         border-radius: 24px;
 }
 
+h1 {
+        font-size: 64px;
+}
 .card-left {
         padding: 2em;
         flex-grow: 1;
