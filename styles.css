@@ -21,6 +21,7 @@ body {
 container {
         display: flex;
 }
+
 .card-left {
         border-bottom: 2em;
 }
@@ -32,5 +33,5 @@ container {
 
 
 .bullet {
-        display: inline-block;
+        display: flex;
 }
