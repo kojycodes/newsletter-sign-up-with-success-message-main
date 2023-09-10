@@ -50,6 +50,11 @@ container {
         margin-right: 16px;
 }
 
+label {
+        color: var(--darkslategray);
+        font-weight: 700;
+        font-size: 10px;
+}
 .card-right {
         padding: 1em;
 }
