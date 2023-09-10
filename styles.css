@@ -31,6 +31,7 @@ container {
 
 .card-left {
         border-bottom: 2em;
+        padding: 1em;
 }
 
 .list {
@@ -45,4 +46,8 @@ container {
 
 #checkmark {
         margin-right: 1em;
+}
+
+.card-right {
+        padding: 1em;
 }
