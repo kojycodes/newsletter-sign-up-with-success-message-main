@@ -30,9 +30,9 @@ container {
 }
 
 .card-left {
-        border-bottom: 2em;
         padding: 2em;
         max-width:350px;
+        flex-grow: 1;
         
 }
 
@@ -83,4 +83,5 @@ label {
 
 .card-right {
         padding: 1em;
+        flex-grow: 1;
 }
