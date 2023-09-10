@@ -55,6 +55,7 @@ label {
         color: var(--darkslategray);
         font-weight: 700;
         font-size: 10px;
+        margin-bottom: 4px;
 }
  #email {
         border-color: var(--gray);
@@ -63,6 +64,7 @@ label {
         padding-top: 8px;
         padding-bottom: 8px;
         width: 100%;
+        margin-bottom: 8px;
  }
 
  #submit {
