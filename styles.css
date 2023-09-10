@@ -88,6 +88,12 @@ label {
         box-shadow: 0 6px 15px var(--tomato);
         border: none;
  }
+
+ input:invalid {
+        border: var(--tomato);
+        background-color: var(--tomato) 50%;
+
+ }
 .card-right {
         padding: 1em;
         flex-grow: 1;
