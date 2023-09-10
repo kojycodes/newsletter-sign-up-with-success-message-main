@@ -82,6 +82,9 @@ label {
         width: 100%;
  }
 
+ #submit:active {
+        color: var(--tomato);
+ }
 .card-right {
         padding: 1em;
         flex-grow: 1;
