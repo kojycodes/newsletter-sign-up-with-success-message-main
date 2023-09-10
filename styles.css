@@ -51,6 +51,10 @@ container {
         margin-right: 16px;
 }
 
+#container-email {
+        display: block;
+}
+
 label {
         color: var(--darkslategray);
         font-weight: 700;
