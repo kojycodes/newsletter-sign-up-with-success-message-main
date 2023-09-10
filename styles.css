@@ -38,6 +38,7 @@ container {
         display:flex;
         flex-direction: column;
         gap: 2px;
+        margin-bottom: 24px;
 }
 
 
@@ -55,6 +56,13 @@ label {
         font-weight: 700;
         font-size: 10px;
 }
+ #email {
+        border: var(--gray);
+        border-radius: 24px;
+        padding-left: 10px;
+        padding-top: 8px;
+        padding-bottom: 8px;
+ }
 .card-right {
         padding: 1em;
 }
