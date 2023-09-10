@@ -105,3 +105,8 @@ label {
         border-radius: 8px;
         padding: 8px 8px;
 }
+
+.attribution {
+        color: var(--white);
+        margin: 0 auto;
+}
