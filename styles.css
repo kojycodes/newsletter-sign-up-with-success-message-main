@@ -22,6 +22,7 @@ body {
 container {
         display: flex;
         flex-direction: row;
+        justify-content: space-evenly;
         max-width: 1440px;
         width: 60%;
         margin: 0 auto;
@@ -31,7 +32,6 @@ container {
 
 .card-left {
         padding: 2em;
-        max-width:350px;
         flex-grow: 1;
         
 }
