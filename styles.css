@@ -33,7 +33,6 @@ container {
 .card-left {
         padding: 2em;
         flex-grow: 1;
-        background-color: aqua;
 }
 
 .list {
